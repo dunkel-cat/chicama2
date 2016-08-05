@@ -1,0 +1,64 @@
+
+
+a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+}
+
+.amarillo{
+	width: 100%;
+	height: 500px;
+	background-color: #fcce09;
+}
+#lab {
+ text-align: center;
+ color: white;
+ font-size: 30px;
+ position: relative;
+ top: 200px;
+}
+#lab1{
+ text-align: center;
+ color: white;
+ position: relative;
+ top: 190px;
+}
+.button {
+    background-color: #fcba43;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    position: relative;
+    left: 40px;
+   }
+   .menu{
+   	border: 1px solid black;
+   }
+/*section*/
+.plomo{
+	background-color: #eaeae9;
+  height: 1500px;
+}
+.cajita{
+  border: 1px solid green;
+  background-color: white;
+  height: 550px;
+  margin: 50px;
+}
+.tres{
+   text-align: center;
+   margin-top: 20px;
+}
+/*textooooo*/
+#ejem{
+  text-align: left;
+  padding-left: 20px;
+}
+
+
