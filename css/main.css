@@ -5,6 +5,9 @@ a{
 	color: white;
 	padding: 10px;
 }
+p{
+  color: gray;
+}
 
 .amarillo{
 	width: 100%;
@@ -44,7 +47,7 @@ a{
   height: 1500px;
 }
 .cajita{
-  border: 1px solid green;
+  border: 1px solid white;
   background-color: white;
   height: 550px;
   margin: 30px;
@@ -57,6 +60,19 @@ a{
 #ejem{
   text-align: left;
   padding-left: 20px;
+  color: gray;
 }
-
+.button2{
+  background-color: #fcba43;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    position: relative;
+  text-align: center;
+}
 
