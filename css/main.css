@@ -44,7 +44,7 @@ p{
 /*section*/
 .plomo{
 	background-color: #eaeae9;
-  height: 1500px;
+  height: 1200px;
 }
 .cajita{
   border: 1px solid white;
@@ -75,4 +75,9 @@ p{
     position: relative;
   text-align: center;
 }
-
+/*pie de página*/
+.pie{
+  border: 1px solid red;
+  height: 80px;
+  background: #262624;
+}
