@@ -37,9 +37,7 @@ a{
     position: relative;
     left: 40px;
    }
-   .menu{
-   	border: 1px solid black;
-   }
+
 /*section*/
 .plomo{
 	background-color: #eaeae9;
@@ -49,7 +47,7 @@ a{
   border: 1px solid green;
   background-color: white;
   height: 550px;
-  margin: 50px;
+  margin: 30px;
 }
 .tres{
    text-align: center;
